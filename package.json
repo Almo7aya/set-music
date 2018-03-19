@@ -1,7 +1,7 @@
 {
   "name": "music-up",
   "version": "0.1.0",
-  "private": true,
+  "license": "MIT",
   "dependencies": {
     "body-parser": "^1.18.2",
     "lodash": "^4.17.5",
