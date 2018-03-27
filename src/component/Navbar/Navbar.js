@@ -6,8 +6,8 @@ export default class Navbar extends Component {
 
     render() {
         return (
-        <nav>
-            <h1>Navbar Works</h1>
+        <nav class="Navbar">
+            <h3>Music UP</h3>
         </nav>);
     };
 }
