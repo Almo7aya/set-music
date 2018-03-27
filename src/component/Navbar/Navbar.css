@@ -1,4 +1,10 @@
 .Navbar {
     height: 4rem;
     overflow: hidden;
+    background-color: #FF1772;
+}
+
+.Navbar div.container {
+    width: 1200px;
+    margin: auto;
 }
