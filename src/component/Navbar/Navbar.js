@@ -9,6 +9,11 @@ export default class Navbar extends Component {
         <nav className="Navbar">
             <div className="container">
                 <h3>Music UP</h3>
+                <ul>
+                    <li></li>
+                    <li></li>
+                    <li></li>                    
+                </ul>
             </div>
         </nav>);
     };
